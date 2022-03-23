@@ -1,3 +1,6 @@
+# Наши изменения
+- Добавлена поддержка веба (заглушка, что функционал не доступен)
+
 # React Native Touch ID
 
 [![react-native version](https://img.shields.io/badge/react--native-0.57-green.svg?style=flat-square)](https://github.com/facebook/react-native/releases)
